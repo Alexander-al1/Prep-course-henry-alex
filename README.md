@@ -1,2 +1,1 @@
-# Prep-course-henry-alex
-Repositorio de prueba henry alex
+Este proyecto es una prueba nomas
